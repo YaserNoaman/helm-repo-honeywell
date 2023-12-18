@@ -1,0 +1,5 @@
+replicaCount: 1
+image:
+  repository: harbor.honeywell.gov.in/performance
+  tag: "01-DEV"
+applabel: honeywell-performance-app
